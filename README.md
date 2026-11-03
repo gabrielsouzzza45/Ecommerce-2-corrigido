@@ -90,7 +90,3 @@ As duas classes do modo `test` são suas. Nesse modo, a aplicação tem de funci
 3. Trocar de modo exige mudar só o `APP_ENV`.
 4. A escolha do modo acontece só no `container.ts`: nenhum arquivo de `services/` ou `controllers/` lê o `APP_ENV` nem importa Prisma, Nodemailer ou uma implementação de repositório, provider ou pagamento.
 5. Uma seção **"Como rodar"** no seu README explica os dois modos.
-
-### Entrega
-
-Pelo git. Informe na caixa de texto do AVA o link do repositório. Ele não pode estar privado: teste antes de entregar.
