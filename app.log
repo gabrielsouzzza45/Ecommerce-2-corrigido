@@ -1,0 +1,40 @@
+{"level":"error","message":"Tentativa de pedido sem itens","timestamp":"2026-11-03T20:12:11.519Z"}
+{"level":"info","message":"Crédito de R$ 110 no cartão final 5678","timestamp":"2026-11-03T20:12:40.142Z"}
+{"level":"info","message":"Ethereal Mail configurado: flou3ornuvrm2lwc@ethereal.email","timestamp":"2026-11-03T20:12:41.480Z"}
+{"level":"info","message":"Email enviado: https://ethereal.email/message/aupAPAyP2fStYeThaupAQOQz.3dURo6XAAAAARHERzuQu6sMAmjV5mvT1gk","timestamp":"2026-11-03T20:12:45.991Z"}
+{"level":"info","message":"Crédito de R$ 110 no cartão final 5678","timestamp":"2026-11-03T20:24:55.608Z"}
+{"level":"info","message":"Ethereal Mail configurado: jjy2xfez2tz3yp2v@ethereal.email","timestamp":"2026-11-03T20:24:56.503Z"}
+{"level":"info","message":"Email enviado: https://ethereal.email/message/aupDGwyP2fStYix.aupDIApE9YNj7PTFAAAAAa559xYG8MODeLQN7b7z2eQ","timestamp":"2026-11-03T20:25:01.351Z"}
+{"level":"info","message":"Cobrança Pix de R$ 210 gerada","timestamp":"2026-11-03T20:31:55.745Z"}
+{"level":"error","message":"Erro ao processar pedido: this.orders.create is not a function","timestamp":"2026-11-03T20:31:55.747Z"}
+{"level":"info","message":"Cobrança Pix de R$ 210 gerada","timestamp":"2026-11-03T20:34:00.064Z"}
+{"level":"error","message":"Erro ao processar pedido: this.orders.create is not a function","timestamp":"2026-11-03T20:34:00.065Z"}
+{"level":"info","message":"Cobrança Pix de R$ 210 gerada","timestamp":"2026-11-03T20:34:57.085Z"}
+{"level":"error","message":"Erro ao processar pedido: this.orders.create is not a function","timestamp":"2026-11-03T20:34:57.086Z"}
+{"level":"info","message":"Cobrança Pix de R$ 210 gerada","timestamp":"2026-11-03T20:50:38.549Z"}
+{"level":"error","message":"Erro ao processar pedido: this.orders.create is not a function","timestamp":"2026-11-03T20:50:38.551Z"}
+{"level":"info","message":"Cobrança Pix de R$ 210 gerada","timestamp":"2026-11-03T20:52:19.560Z"}
+{"level":"error","message":"Erro ao processar pedido: import_Order.Order is not a constructor","timestamp":"2026-11-03T20:52:19.562Z"}
+{"level":"info","message":"Cobrança Pix de R$ 210 gerada","timestamp":"2026-11-03T20:52:28.069Z"}
+{"level":"error","message":"Erro ao processar pedido: import_Order.Order is not a constructor","timestamp":"2026-11-03T20:52:28.069Z"}
+{"level":"info","message":"Cobrança Pix de R$ 210 gerada","timestamp":"2026-11-03T20:54:47.538Z"}
+{"level":"error","message":"Erro ao processar pedido: Cannot read properties of undefined (reading 'map')","timestamp":"2026-11-03T20:54:47.540Z"}
+{"level":"info","message":"Cobrança Pix de R$ 210 gerada","timestamp":"2026-11-03T20:56:45.243Z"}
+{"level":"error","message":"Erro ao processar pedido: Cannot read properties of undefined (reading 'map')","timestamp":"2026-11-03T20:56:45.245Z"}
+{"level":"info","message":"Cobrança Pix de R$ 210 gerada","timestamp":"2026-11-03T21:03:32.089Z"}
+{"level":"error","message":"Erro ao processar pedido: Cannot read properties of undefined (reading 'map')","timestamp":"2026-11-03T21:03:32.090Z"}
+{"level":"info","message":"Cobrança Pix de R$ 210 gerada","timestamp":"2026-11-03T21:05:28.078Z"}
+{"level":"info","message":"[TEST MODE] E-mail simulado para: undefined | Assunto: Confirmação do Pedido #1793739928080","timestamp":"2026-11-03T21:05:28.080Z"}
+{"level":"info","message":"Email enviado: null","timestamp":"2026-11-03T21:05:28.080Z"}
+{"level":"info","message":"Crédito de R$ 110 no cartão final 5678","timestamp":"2026-11-03T21:10:30.518Z"}
+{"level":"info","message":"Ethereal Mail configurado: szay4vb6da3fnera@ethereal.email","timestamp":"2026-11-03T21:10:31.483Z"}
+{"level":"info","message":"Email enviado: https://ethereal.email/message/aupNygyP2fStY1WwaupNzgpE9YNj7PpSAAAAAV1z2p2R3R8a9tcqmZfbujM","timestamp":"2026-11-03T21:10:35.713Z"}
+{"level":"info","message":"Crédito de R$ 110 no cartão final 5678","timestamp":"2026-11-03T21:11:46.434Z"}
+{"level":"info","message":"Ethereal Mail configurado: uv5lyvk5je4h4w7l@ethereal.email","timestamp":"2026-11-03T21:11:47.284Z"}
+{"level":"info","message":"Email enviado: https://ethereal.email/message/aupOFgyP2fStY1y1aupOGgpE9YNj7PrJAAAAAcLBEZjWiIomCIgjRDt6BL8","timestamp":"2026-11-03T21:11:51.589Z"}
+{"level":"info","message":"Crédito de R$ 110 no cartão final 5678","timestamp":"2026-11-03T21:13:35.737Z"}
+{"level":"info","message":"[TEST MODE] E-mail simulado para: undefined | Assunto: Confirmação do Pedido #1793740415739","timestamp":"2026-11-03T21:13:35.739Z"}
+{"level":"info","message":"Email enviado: null","timestamp":"2026-11-03T21:13:35.739Z"}
+{"level":"info","message":"Cobrança Pix de R$ 50 gerada","timestamp":"2026-11-03T21:38:23.307Z"}
+{"level":"info","message":"Ethereal Mail configurado: gjbcw53pchts6m33@ethereal.email","timestamp":"2026-11-03T21:38:24.191Z"}
+{"level":"info","message":"Email enviado: https://ethereal.email/message/aupUUwyP2fStZAN5aupUV0x4tM8OzwUsAAAAAcH7B2bSxsukm.prmXVpwWw","timestamp":"2026-11-03T21:38:28.930Z"}
